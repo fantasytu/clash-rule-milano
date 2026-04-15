@@ -1,0 +1,6 @@
+payload:
+  # Playstation 游戏平台
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+  - DOMAIN-SUFFIX,account.sony.com
+  - DOMAIN-SUFFIX,playstation.net
+  - DOMAIN-SUFFIX,playstation.com

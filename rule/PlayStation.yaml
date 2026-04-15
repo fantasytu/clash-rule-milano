@@ -1,0 +1,4 @@
+payload:
+  # Playstation 直连 (CDN/下载)
+  - DOMAIN-SUFFIX,dl.playstation.net
+  - DOMAIN-SUFFIX,image.api.playstation.com
